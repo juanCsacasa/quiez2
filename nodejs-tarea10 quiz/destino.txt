@@ -1,0 +1,4 @@
+Recomendaciones
+
+Siga las recomendaciones y feedback que se le ha dado en entregas anteriores.
+Organizar el código en módulos sigue siendo un requisito para todas las entregas. Nada de código chorreado!
